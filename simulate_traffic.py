@@ -1,3 +1,18 @@
+#                        Code Name version 1
+# ==============================================================================
+
+"""
+Agreement License:
+
+This software is licensed under the Ahmad Tech License Agreement (ATLA).
+
+- The software is provided "as-is", without warranty of any kind, express or implied.
+- You are free to use, modify, and distribute the software, provided that you include
+  this license notice in any copy or substantial portion of the software.
+- The author shall not be held liable for any damages arising from the use of this software.
+
+By using this software, you agree to these terms.
+"""
 import time
 import json
 from selenium import webdriver
