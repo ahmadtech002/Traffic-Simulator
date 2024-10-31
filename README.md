@@ -16,3 +16,13 @@ This Python script uses Selenium to simulate user traffic to a specified website
    ```bash
    git clone https://github.com/yourusername/traffic-simulator.git
    cd traffic-simulator
+   
+**Install dependencies**:
+```bash
+- pip install -r requirements.txt
+
+**Run the script**:
+
+```bash
+
+python simulate_traffic.py
